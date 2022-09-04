@@ -35,7 +35,7 @@
 					
 			`
 			}
-			alert(`loaded`)
+			
 			document.getElementById("coursetaken_html").innerHTML = coursetaken;
 			document.getElementById("schoolPackage").innerHTML = schoolInfo;
 
