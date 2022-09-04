@@ -16,7 +16,7 @@ include 'header.php';
 	</section>
 
 
-	<!-----service section start----------->
+	
 
 <div class = "background">
 			<div class="title">
@@ -36,7 +36,7 @@ include 'header.php';
 
 
 
-	<!------Contact Me------>
+	
 	<div class="contact-me">
 		<p>Impress with my Background? </p>
 		<a class="button-two" href="https://www.facebook.com/ashtong06" target="_blank">Message me @ my Facebook!</a>
